@@ -27,6 +27,6 @@ The accuracy of your tagger is determined by comparing the output of the tagger 
 
 ## Resuts on Test Data
 
-English : 88% accurate
-Chinese : 86% accurate
-Hindi   : 92% accurate
+English : 88% accurate <br>
+Chinese : 86% accurate <br>
+Hindi   : 92% accurate <br>

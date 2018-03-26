@@ -1,4 +1,4 @@
-# POS-Tagger
+# Hidden Markov Model Part-of-Speech Tagger
 
 ## Overview
 A Hidden Markov Model part-of-speech tagger for English, Hindi and Chinese language. The training data is tokenized and tagged; the test data will is also tokenized, and the tagger add the tags to the test data.
